@@ -8,12 +8,12 @@
 ## Guide
 
 I’ve just passed six certifications in two months I want to share how I did in case if anybody else finds it useful. I am happy to help anybody answering any questions you have. The certifications I did where:
-•	AWS Certified Cloud Practitioner
-•	AWS Certified Developer - Associate (DVA)
-•	AWS Certified Solutions Architect - Associate (SAA)
-•	AWS Certified SysOps Administrator - Associate (SOA)
-•	AWS Certified Solutions Architect - Professional (SAP)
-•	AWS Certified Machine Learning – Specialty
+* AWS Certified Cloud Practitioner
+* AWS Certified Developer - Associate (DVA)
+* AWS Certified Solutions Architect - Associate (SAA)
+* AWS Certified SysOps Administrator - Associate (SOA)
+* AWS Certified Solutions Architect - Professional (SAP)
+* AWS Certified Machine Learning – Specialty
 
 Here are the resources I used:
 •	Started by reading the official exam guides from AWS and took note of all the additional resources (videos, whitepapers, FAQs, etc.)
